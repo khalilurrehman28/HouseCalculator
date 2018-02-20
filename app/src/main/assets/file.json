@@ -1,0 +1,166 @@
+{
+  "product": [
+    {
+      "product_code": "101",
+      "product_name": "Plastic Basin 67cm(1100)",
+      "unit": "Dzn",
+      "product_price": "33"
+
+
+    },
+    {
+      "product_code": "102",
+      "product_name": "Plastic Basin 67cm(875)",
+      "unit": "Dzn",
+      "product_price": "33"
+
+    },
+    {
+      "product_code": "103",
+      "product_name": "Plastic Basin 60cm(450)with grip",
+      "unit": "Dzn",
+      "product_price": "16"
+
+    },
+    {
+      "product_code": "104",
+      "product_name": "Plastic Basin 60cm(700)",
+      "unit": "Dzn",
+      "product_price": "25"
+
+    },
+    {
+      "product_code": "105",
+      "product_name": "Plastic Basin 50cm(390)with grip",
+      "unit": "Dzn",
+      "product_price": "14.5"
+
+    },
+    {
+      "product_code": "106",
+      "product_name": "Plastic Basin 42cm(360)",
+      "unit": "Dzn",
+      "product_price": "12"
+
+    },
+    {
+      "product_code": "107",
+      "product_name": "Plastic Basin 36cm(242)",
+      "unit": "Dzn",
+      "product_price": "9"
+
+    },
+    {
+      "product_code": "108",
+      "product_name": "Plastic Basin 55 with Handle 30Ltr(630)",
+      "unit": "Dzn",
+      "product_price": "25.7"
+
+    },
+    {
+      "product_code": "109",
+      "product_name": "Plastic Mini Basin 36cm(130)",
+      "unit": "Dzn",
+      "product_price": "5.75"
+
+    },
+    {
+      "product_code": "110",
+      "product_name": "Plastic Basin 33cm(212)",
+      "unit": "Dzn",
+      "product_price": "7"
+
+    },
+    {
+      "product_code": "111",
+      "product_name": "Plastic Bowl 30cm(100)Butterfly",
+      "unit": "Dzn",
+      "product_price": "4.36"
+
+    },
+    {
+      "product_code": "111 T",
+      "product_name": "Plastic Bowl 30cm(100)Butterfly (transparent)",
+      "unit": "Dzn",
+      "product_price": "4.95"
+
+    },
+    {
+      "product_code": "118",
+      "product_name": "Deep Bowl 80 #32",
+      "unit": "Dzn",
+      "product_price": "45"
+
+    },
+    {
+      "product_code": "269",
+      "product_name": "DEEP BASIN 70 #31",
+      "unit": "Dzn",
+      "product_price": "42"
+
+    },
+    {
+      "product_code": "274",
+      "product_name": "Deep Bowl 65(1150/30)",
+      "unit": "Dzn",
+      "product_price": "40"
+
+    },
+    {
+      "product_code": "276",
+      "product_name": "Deep Basin 60/700(Africa)",
+      "unit": "Dzn",
+      "product_price": "26"
+
+    },
+    {
+      "product_code": "400",
+      "product_name": "Deep Bowl 50(800)",
+      "unit": "Dzn",
+      "product_price": "33"
+
+    },
+    {
+      "product_code": "112",
+      "product_name": "Deep Bowl 28cm(102)",
+      "unit": "Dzn",
+      "product_price": "3.95"
+
+    },
+    {
+      "product_code": "113",
+      "product_name": "Plastic Deep Bowl 26cm(80)butterfly",
+      "unit": "Dzn",
+      "product_price": "3.7"
+
+    },
+    {
+      "product_code": "417",
+      "product_name": "Plastic Deep Bowl 26cm(80)butterfly (transparent)",
+      "unit": "Dzn",
+      "product_price": "3.95"
+
+    },
+    {
+      "product_code": "114",
+      "product_name": "Plastic Deep Bowl 24cm(70)",
+      "unit": "Dzn",
+      "product_price": "3"
+
+    },
+    {
+      "product_code": "115",
+      "product_name": "Plastic Deep Bowl 20cm",
+      "unit": "Dzn",
+      "product_price": "2"
+
+    },
+    {
+      "product_code": "116",
+      "product_name": "Plastic Deep Bowl 18cm(38)",
+      "unit": "Dzn",
+      "product_price": "1.9"
+
+    }
+  ]
+}
